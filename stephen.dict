@@ -1,0 +1,210 @@
+<dictionary>
+  <firstLanguage>francais</firstLanguage>
+  <secondLanguage>chinois</secondLanguage>
+  <firstLanguageIndexedBySecond>
+    <entry>
+      <string>小</string>
+      <entry>
+        <translations class="set">
+          <string>petit</string>
+        </translations>
+        <explaination>xiǎo</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>上</string>
+      <entry>
+        <translations class="set">
+          <string>haut</string>
+          <string>dessus</string>
+        </translations>
+        <explaination>shàng</explaination>
+        <goodAnswers>2</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>下</string>
+      <entry>
+        <translations class="set">
+          <string>bas</string>
+          <string>dessous</string>
+        </translations>
+        <explaination>xià</explaination>
+        <goodAnswers>2</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>说</string>
+      <entry>
+        <translations class="set">
+          <string>parler</string>
+          <string>dire</string>
+        </translations>
+        <explaination>shuō</explaination>
+        <goodAnswers>2</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>儿子</string>
+      <entry>
+        <translations class="set">
+          <string>fils</string>
+        </translations>
+        <explaination>ér zǐ</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>桌子</string>
+      <entry>
+        <translations class="set">
+          <string>table</string>
+        </translations>
+        <explaination>zhuo1 zǐ</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>天</string>
+      <entry>
+        <translations class="set">
+          <string>ciel</string>
+          <string>jour</string>
+        </translations>
+        <explaination>tiān</explaination>
+        <goodAnswers>1</goodAnswers>
+        <wrongAnswers>1</wrongAnswers>
+      </entry>
+    </entry>
+  </firstLanguageIndexedBySecond>
+  <secondLanguageIndexedByFirst>
+    <entry>
+      <string>haut</string>
+      <entry>
+        <translations class="set">
+          <string>上</string>
+        </translations>
+        <explaination>shàng</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>1</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>petit</string>
+      <entry>
+        <translations class="set">
+          <string>小</string>
+        </translations>
+        <explaination>xiǎo</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>ciel</string>
+      <entry>
+        <translations class="set">
+          <string>天</string>
+        </translations>
+        <explaination>tiān</explaination>
+        <goodAnswers>1</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>table</string>
+      <entry>
+        <translations class="set">
+          <string>桌子</string>
+        </translations>
+        <explaination>zhuo1 zǐ</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>bas</string>
+      <entry>
+        <translations class="set">
+          <string>下</string>
+        </translations>
+        <explaination>xià</explaination>
+        <goodAnswers>1</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>dessus</string>
+      <entry>
+        <translations class="set">
+          <string>上</string>
+        </translations>
+        <explaination>shàng</explaination>
+        <goodAnswers>1</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>jour</string>
+      <entry>
+        <translations class="set">
+          <string>天</string>
+        </translations>
+        <explaination>tiān</explaination>
+        <goodAnswers>1</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>parler</string>
+      <entry>
+        <translations class="set">
+          <string>说</string>
+        </translations>
+        <explaination>shuō</explaination>
+        <goodAnswers>1</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>dire</string>
+      <entry>
+        <translations class="set">
+          <string>说</string>
+        </translations>
+        <explaination>shuō</explaination>
+        <goodAnswers>1</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>fils</string>
+      <entry>
+        <translations class="set">
+          <string>儿子</string>
+        </translations>
+        <explaination>ér zǐ</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>dessous</string>
+      <entry>
+        <translations class="set">
+          <string>下</string>
+        </translations>
+        <explaination>xià</explaination>
+        <goodAnswers>1</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+  </secondLanguageIndexedByFirst>
+</dictionary>

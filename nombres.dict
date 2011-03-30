@@ -1,0 +1,294 @@
+<dictionary>
+  <firstLanguage>chinois</firstLanguage>
+  <secondLanguage>francais</secondLanguage>
+  <firstLanguageIndexedBySecond>
+    <entry>
+      <string>3</string>
+      <entry>
+        <translations class="set">
+          <string>三</string>
+        </translations>
+        <explaination>sān</explaination>
+        <goodAnswers>7</goodAnswers>
+        <wrongAnswers>5</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>2</string>
+      <entry>
+        <translations class="set">
+          <string>二</string>
+        </translations>
+        <explaination>èr</explaination>
+        <goodAnswers>6</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>10</string>
+      <entry>
+        <translations class="set">
+          <string>十</string>
+        </translations>
+        <explaination>shí</explaination>
+        <goodAnswers>7</goodAnswers>
+        <wrongAnswers>1</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>1</string>
+      <entry>
+        <translations class="set">
+          <string>一</string>
+        </translations>
+        <explaination>yī</explaination>
+        <goodAnswers>6</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>0</string>
+      <entry>
+        <translations class="set">
+          <string>零</string>
+        </translations>
+        <explaination>líng</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>7</string>
+      <entry>
+        <translations class="set">
+          <string>七</string>
+        </translations>
+        <explaination>qī</explaination>
+        <goodAnswers>7</goodAnswers>
+        <wrongAnswers>4</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>6</string>
+      <entry>
+        <translations class="set">
+          <string>六</string>
+        </translations>
+        <explaination>liù</explaination>
+        <goodAnswers>6</goodAnswers>
+        <wrongAnswers>6</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>5</string>
+      <entry>
+        <translations class="set">
+          <string>五</string>
+        </translations>
+        <explaination>wǔ</explaination>
+        <goodAnswers>7</goodAnswers>
+        <wrongAnswers>3</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>4</string>
+      <entry>
+        <translations class="set">
+          <string>四</string>
+        </translations>
+        <explaination>sì</explaination>
+        <goodAnswers>7</goodAnswers>
+        <wrongAnswers>4</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>9</string>
+      <entry>
+        <translations class="set">
+          <string>九</string>
+        </translations>
+        <explaination>jiǔ</explaination>
+        <goodAnswers>5</goodAnswers>
+        <wrongAnswers>4</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>8</string>
+      <entry>
+        <translations class="set">
+          <string>八</string>
+        </translations>
+        <explaination>bā</explaination>
+        <goodAnswers>7</goodAnswers>
+        <wrongAnswers>3</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>100</string>
+      <entry>
+        <translations class="set">
+          <string>一百</string>
+        </translations>
+        <explaination>yībǎi</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>1000</string>
+      <entry>
+        <translations class="set">
+          <string>一千</string>
+        </translations>
+        <explaination>yī qiān</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+  </firstLanguageIndexedBySecond>
+  <secondLanguageIndexedByFirst>
+    <entry>
+      <string>九</string>
+      <entry>
+        <translations class="set">
+          <string>9</string>
+        </translations>
+        <explaination>jiǔ</explaination>
+        <goodAnswers>7</goodAnswers>
+        <wrongAnswers>8</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>五</string>
+      <entry>
+        <translations class="set">
+          <string>5</string>
+        </translations>
+        <explaination>wǔ</explaination>
+        <goodAnswers>8</goodAnswers>
+        <wrongAnswers>7</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>一千</string>
+      <entry>
+        <translations class="set">
+          <string>1000</string>
+        </translations>
+        <explaination>yī qiān</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>三</string>
+      <entry>
+        <translations class="set">
+          <string>3</string>
+        </translations>
+        <explaination>sān</explaination>
+        <goodAnswers>8</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>十</string>
+      <entry>
+        <translations class="set">
+          <string>10</string>
+        </translations>
+        <explaination>shí</explaination>
+        <goodAnswers>9</goodAnswers>
+        <wrongAnswers>1</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>一</string>
+      <entry>
+        <translations class="set">
+          <string>1</string>
+        </translations>
+        <explaination>yī</explaination>
+        <goodAnswers>8</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>八</string>
+      <entry>
+        <translations class="set">
+          <string>8</string>
+        </translations>
+        <explaination>bā</explaination>
+        <goodAnswers>7</goodAnswers>
+        <wrongAnswers>3</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>七</string>
+      <entry>
+        <translations class="set">
+          <string>7</string>
+        </translations>
+        <explaination>qī</explaination>
+        <goodAnswers>6</goodAnswers>
+        <wrongAnswers>9</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>六</string>
+      <entry>
+        <translations class="set">
+          <string>6</string>
+        </translations>
+        <explaination>liù</explaination>
+        <goodAnswers>8</goodAnswers>
+        <wrongAnswers>5</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>二</string>
+      <entry>
+        <translations class="set">
+          <string>2</string>
+        </translations>
+        <explaination>èr</explaination>
+        <goodAnswers>8</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>零</string>
+      <entry>
+        <translations class="set">
+          <string>0</string>
+        </translations>
+        <explaination>líng</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>四</string>
+      <entry>
+        <translations class="set">
+          <string>4</string>
+        </translations>
+        <explaination>sì</explaination>
+        <goodAnswers>9</goodAnswers>
+        <wrongAnswers>3</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>一百</string>
+      <entry>
+        <translations class="set">
+          <string>100</string>
+        </translations>
+        <explaination>yībǎi</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+  </secondLanguageIndexedByFirst>
+</dictionary>

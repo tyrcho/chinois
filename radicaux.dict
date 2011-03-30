@@ -1,0 +1,517 @@
+<dictionary>
+  <firstLanguage>francais</firstLanguage>
+  <secondLanguage>radicaux chinois</secondLanguage>
+  <firstLanguageIndexedBySecond>
+    <entry>
+      <string>刀</string>
+      <entry>
+        <translations class="set">
+          <string>couteau</string>
+        </translations>
+        <explaination>切 : couper</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>1</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>大</string>
+      <entry>
+        <translations class="set">
+          <string>grand</string>
+        </translations>
+        <explaination>dà
+ex : 天 (le ciel, le paradis)
+le paradis 一 au dessus de l&apos;homme 大</explaination>
+        <goodAnswers>1</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>刂</string>
+      <entry>
+        <translations class="set">
+          <string>couteau</string>
+        </translations>
+        <explaination>切 : couper</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>1</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>丿</string>
+      <entry>
+        <translations class="set">
+          <string>ligne</string>
+        </translations>
+        <explaination>piě
+么</explaination>
+        <goodAnswers>1</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>讠</string>
+      <entry>
+        <translations class="set">
+          <string>n°149</string>
+        </translations>
+        <explaination>说</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>1</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>见</string>
+      <entry>
+        <translations class="set">
+          <string>voir</string>
+        </translations>
+        <explaination>ex : 觑 = espionner</explaination>
+        <goodAnswers>1</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>人</string>
+      <entry>
+        <translations class="set">
+          <string>homme</string>
+        </translations>
+        <explaination>今  :présent, aujourd&apos;hui (bouche qui parle des choses)</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>亻</string>
+      <entry>
+        <translations class="set">
+          <string>homme</string>
+        </translations>
+        <explaination>今  :présent, aujourd&apos;hui (bouche qui parle des choses)
+你 : tu</explaination>
+        <goodAnswers>1</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>戈</string>
+      <entry>
+        <translations class="set">
+          <string>lance</string>
+        </translations>
+        <explaination>shǒu
+我 : la main (手) qui porte l&apos;arme (戈) pour se protéger</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>1</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>儿</string>
+      <entry>
+        <translations class="set">
+          <string>fils</string>
+        </translations>
+        <explaination></explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>手</string>
+      <entry>
+        <translations class="set">
+          <string>main</string>
+        </translations>
+        <explaination>shǒu
+我 : la main (手) qui porte l&apos;arme (戈) pour se protéger</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>饣</string>
+      <entry>
+        <translations class="set">
+          <string>manger</string>
+          <string>nourriture</string>
+        </translations>
+        <explaination>饭 : riz</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>月</string>
+      <entry>
+        <translations class="set">
+          <string>lune</string>
+        </translations>
+        <explaination>yuè
+ex : 有 (phonétique : yǒu)
+朋 : ami</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>艹</string>
+      <entry>
+        <translations class="set">
+          <string>n°140</string>
+          <string>herbe</string>
+        </translations>
+        <explaination>cǎo
+英</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>文</string>
+      <entry>
+        <translations class="set">
+          <string>écriture</string>
+          <string>langue</string>
+          <string>culture</string>
+        </translations>
+        <explaination>wén</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>丨</string>
+      <entry>
+        <translations class="set">
+          <string>n°2</string>
+        </translations>
+        <explaination>中</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>女</string>
+      <entry>
+        <translations class="set">
+          <string>femme</string>
+        </translations>
+        <explaination>nǚ
+好 : femme avec enfant
+奶 : sein, lait
+妈 : maman</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>子</string>
+      <entry>
+        <translations class="set">
+          <string>fils</string>
+        </translations>
+        <explaination>zǐ</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>日</string>
+      <entry>
+        <translations class="set">
+          <string>jour</string>
+        </translations>
+        <explaination>明 : clair
+旦 : matin</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>1</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>辶</string>
+      <entry>
+        <translations class="set">
+          <string>n°162(marcher)</string>
+        </translations>
+        <explaination>遍 : partout
+一遍 : une fois</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>1</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>冂</string>
+      <entry>
+        <translations class="set">
+          <string>n°13</string>
+        </translations>
+        <explaination>ex : 再</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+  </firstLanguageIndexedBySecond>
+  <secondLanguageIndexedByFirst>
+    <entry>
+      <string>n°162(marcher)</string>
+      <entry>
+        <translations class="set">
+          <string>辶</string>
+        </translations>
+        <explaination>遍 : partout
+一遍 : une fois</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>1</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>femme</string>
+      <entry>
+        <translations class="set">
+          <string>女</string>
+        </translations>
+        <explaination>nǚ
+好 : femme avec enfant
+奶 : sein, lait
+妈 : maman</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>ligne</string>
+      <entry>
+        <translations class="set">
+          <string>丿</string>
+        </translations>
+        <explaination>piě
+么</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>1</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>manger</string>
+      <entry>
+        <translations class="set">
+          <string>饣</string>
+        </translations>
+        <explaination>饭 : riz</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>n°2</string>
+      <entry>
+        <translations class="set">
+          <string>丨</string>
+        </translations>
+        <explaination>中</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>nourriture</string>
+      <entry>
+        <translations class="set">
+          <string>饣</string>
+        </translations>
+        <explaination>饭 : riz</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>langue</string>
+      <entry>
+        <translations class="set">
+          <string>文</string>
+        </translations>
+        <explaination>wén</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>fils</string>
+      <entry>
+        <translations class="set">
+          <string>子</string>
+          <string>儿</string>
+        </translations>
+        <explaination>zǐ</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>n°149</string>
+      <entry>
+        <translations class="set">
+          <string>讠</string>
+        </translations>
+        <explaination>说</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>1</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>main</string>
+      <entry>
+        <translations class="set">
+          <string>手</string>
+        </translations>
+        <explaination>shǒu
+我 : la main (手) qui porte l&apos;arme (戈) pour se protéger</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>n°140</string>
+      <entry>
+        <translations class="set">
+          <string>艹</string>
+        </translations>
+        <explaination>cǎo
+英</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>lune</string>
+      <entry>
+        <translations class="set">
+          <string>月</string>
+        </translations>
+        <explaination>yuè
+ex : 有 (phonétique : yǒu)
+朋 : ami</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>n°13</string>
+      <entry>
+        <translations class="set">
+          <string>冂</string>
+        </translations>
+        <explaination>ex : 再</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>écriture</string>
+      <entry>
+        <translations class="set">
+          <string>文</string>
+        </translations>
+        <explaination>wén</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>grand</string>
+      <entry>
+        <translations class="set">
+          <string>大</string>
+        </translations>
+        <explaination>dà
+ex : 天 (le ciel, le paradis)
+le paradis 一 au dessus de l&apos;homme 大</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>lance</string>
+      <entry>
+        <translations class="set">
+          <string>戈</string>
+        </translations>
+        <explaination>shǒu
+我 : la main (手) qui porte l&apos;arme (戈) pour se protéger</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>1</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>herbe</string>
+      <entry>
+        <translations class="set">
+          <string>艹</string>
+        </translations>
+        <explaination>cǎo
+英</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>homme</string>
+      <entry>
+        <translations class="set">
+          <string>人</string>
+          <string>亻</string>
+        </translations>
+        <explaination>今  :présent, aujourd&apos;hui (bouche qui parle des choses)
+你 : tu</explaination>
+        <goodAnswers>1</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>voir</string>
+      <entry>
+        <translations class="set">
+          <string>见</string>
+        </translations>
+        <explaination>ex : 觑 = espionner</explaination>
+        <goodAnswers>1</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>jour</string>
+      <entry>
+        <translations class="set">
+          <string>日</string>
+        </translations>
+        <explaination>明 : clair
+旦 : matin</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>culture</string>
+      <entry>
+        <translations class="set">
+          <string>文</string>
+        </translations>
+        <explaination>wén</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>couteau</string>
+      <entry>
+        <translations class="set">
+          <string>刀</string>
+          <string>刂</string>
+        </translations>
+        <explaination>切 : couper</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+  </secondLanguageIndexedByFirst>
+</dictionary>

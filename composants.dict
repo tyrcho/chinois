@@ -1,0 +1,122 @@
+<dictionary>
+  <firstLanguage>composant chinois</firstLanguage>
+  <secondLanguage>francais</secondLanguage>
+  <firstLanguageIndexedBySecond>
+    <entry>
+      <string>10</string>
+      <entry>
+        <translations class="set">
+          <string>十</string>
+        </translations>
+        <explaination>shí
+什 shén = phonétiquement 十 (shí)+　人　(rén) </explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>cause</string>
+      <entry>
+        <translations class="set">
+          <string>故</string>
+        </translations>
+        <explaination>做 : faire</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>porte</string>
+      <entry>
+        <translations class="set">
+          <string>门</string>
+        </translations>
+        <explaination></explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>action</string>
+      <entry>
+        <translations class="set">
+          <string>故</string>
+        </translations>
+        <explaination>做 : faire</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>ouverture</string>
+      <entry>
+        <translations class="set">
+          <string>门</string>
+        </translations>
+        <explaination></explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>bouche</string>
+      <entry>
+        <translations class="set">
+          <string>口</string>
+        </translations>
+        <explaination></explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+  </firstLanguageIndexedBySecond>
+  <secondLanguageIndexedByFirst>
+    <entry>
+      <string>门</string>
+      <entry>
+        <translations class="set">
+          <string>porte</string>
+          <string>ouverture</string>
+        </translations>
+        <explaination></explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>十</string>
+      <entry>
+        <translations class="set">
+          <string>10</string>
+        </translations>
+        <explaination>shí
+什 shén = phonétiquement 十 (shí)+　人　(rén) </explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>故</string>
+      <entry>
+        <translations class="set">
+          <string>cause</string>
+          <string>action</string>
+        </translations>
+        <explaination>做 : faire</explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>口</string>
+      <entry>
+        <translations class="set">
+          <string>bouche</string>
+        </translations>
+        <explaination></explaination>
+        <goodAnswers>0</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+  </secondLanguageIndexedByFirst>
+</dictionary>
