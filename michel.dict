@@ -330,7 +330,7 @@
           <string>德国</string>
         </translations>
         <explaination>Déguó</explaination>
-        <goodAnswers>15</goodAnswers>
+        <goodAnswers>16</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -541,7 +541,7 @@
           <string>忙</string>
         </translations>
         <explaination>Máng</explaination>
-        <goodAnswers>16</goodAnswers>
+        <goodAnswers>17</goodAnswers>
         <wrongAnswers>7</wrongAnswers>
       </entry>
     </entry>
@@ -565,7 +565,7 @@
         <explaination>zì
 生字 : mot nouveau</explaination>
         <goodAnswers>10</goodAnswers>
-        <wrongAnswers>3</wrongAnswers>
+        <wrongAnswers>4</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -663,7 +663,7 @@
           <string>八</string>
         </translations>
         <explaination>bā</explaination>
-        <goodAnswers>25</goodAnswers>
+        <goodAnswers>26</goodAnswers>
         <wrongAnswers>4</wrongAnswers>
       </entry>
     </entry>
@@ -708,7 +708,7 @@
           <string>前后</string>
         </translations>
         <explaination>qiánhòu </explaination>
-        <goodAnswers>12</goodAnswers>
+        <goodAnswers>13</goodAnswers>
         <wrongAnswers>6</wrongAnswers>
       </entry>
     </entry>
@@ -733,7 +733,7 @@
         <explaination>Guìxìng
 (précieux nom de famille)</explaination>
         <goodAnswers>10</goodAnswers>
-        <wrongAnswers>4</wrongAnswers>
+        <wrongAnswers>5</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -787,7 +787,7 @@
           <string>电脑</string>
         </translations>
         <explaination>diànnǎo </explaination>
-        <goodAnswers>8</goodAnswers>
+        <goodAnswers>9</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -799,7 +799,7 @@
           <string>请</string>
         </translations>
         <explaination>qǐng (s&apos;il vous plait)</explaination>
-        <goodAnswers>33</goodAnswers>
+        <goodAnswers>34</goodAnswers>
         <wrongAnswers>8</wrongAnswers>
       </entry>
     </entry>
@@ -856,7 +856,7 @@
         </translations>
         <explaination>Běn</explaination>
         <goodAnswers>7</goodAnswers>
-        <wrongAnswers>2</wrongAnswers>
+        <wrongAnswers>3</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -888,7 +888,7 @@
           <string>中学生</string>
         </translations>
         <explaination></explaination>
-        <goodAnswers>8</goodAnswers>
+        <goodAnswers>9</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -921,7 +921,7 @@
           <string>男人</string>
         </translations>
         <explaination></explaination>
-        <goodAnswers>10</goodAnswers>
+        <goodAnswers>11</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -954,7 +954,7 @@
           <string>书店</string>
         </translations>
         <explaination>shūdiàn </explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>4</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -976,7 +976,7 @@
           <string>乐</string>
         </translations>
         <explaination>Lè</explaination>
-        <goodAnswers>14</goodAnswers>
+        <goodAnswers>15</goodAnswers>
         <wrongAnswers>6</wrongAnswers>
       </entry>
     </entry>
@@ -1020,7 +1020,7 @@
           <string>好看</string>
         </translations>
         <explaination></explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>4</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -1207,7 +1207,7 @@
           <string>一本书</string>
         </translations>
         <explaination></explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>4</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -1262,7 +1262,7 @@
           <string>叔叔</string>
         </translations>
         <explaination>Shūshu</explaination>
-        <goodAnswers>11</goodAnswers>
+        <goodAnswers>12</goodAnswers>
         <wrongAnswers>2</wrongAnswers>
       </entry>
     </entry>
@@ -1285,7 +1285,7 @@
           <string>自</string>
         </translations>
         <explaination>zì</explaination>
-        <goodAnswers>8</goodAnswers>
+        <goodAnswers>9</goodAnswers>
         <wrongAnswers>3</wrongAnswers>
       </entry>
     </entry>
@@ -1510,7 +1510,7 @@
           <string>钱</string>
         </translations>
         <explaination>qián </explaination>
-        <goodAnswers>18</goodAnswers>
+        <goodAnswers>19</goodAnswers>
         <wrongAnswers>9</wrongAnswers>
       </entry>
     </entry>
@@ -1631,7 +1631,7 @@
           <string>明</string>
         </translations>
         <explaination>míng</explaination>
-        <goodAnswers>8</goodAnswers>
+        <goodAnswers>9</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -1855,8 +1855,8 @@
           <string>式</string>
         </translations>
         <explaination>英式早饭 : petit déjeuner anglais</explaination>
-        <goodAnswers>1</goodAnswers>
-        <wrongAnswers>1</wrongAnswers>
+        <goodAnswers>4</goodAnswers>
+        <wrongAnswers>2</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -1890,7 +1890,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>学生</string>
         </translations>
         <explaination>xuéshēng</explaination>
-        <goodAnswers>7</goodAnswers>
+        <goodAnswers>8</goodAnswers>
         <wrongAnswers>1</wrongAnswers>
       </entry>
     </entry>
@@ -1978,7 +1978,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>包</string>
         </translations>
         <explaination>bāo</explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>4</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -2154,8 +2154,8 @@ Wàisūnzi (par la fille)</explaination>
           <string>富</string>
         </translations>
         <explaination>fù</explaination>
-        <goodAnswers>18</goodAnswers>
-        <wrongAnswers>9</wrongAnswers>
+        <goodAnswers>20</goodAnswers>
+        <wrongAnswers>10</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -2232,7 +2232,7 @@ Wàisūnzi (par la fille)</explaination>
         </translations>
         <explaination>qiántiān </explaination>
         <goodAnswers>10</goodAnswers>
-        <wrongAnswers>4</wrongAnswers>
+        <wrongAnswers>5</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -2242,7 +2242,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>课</string>
         </translations>
         <explaination>kè </explaination>
-        <goodAnswers>6</goodAnswers>
+        <goodAnswers>7</goodAnswers>
         <wrongAnswers>3</wrongAnswers>
       </entry>
     </entry>
@@ -2264,7 +2264,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>工程师</string>
         </translations>
         <explaination>gōngchéng shī </explaination>
-        <goodAnswers>10</goodAnswers>
+        <goodAnswers>11</goodAnswers>
         <wrongAnswers>5</wrongAnswers>
       </entry>
     </entry>
@@ -2275,8 +2275,8 @@ Wàisūnzi (par la fille)</explaination>
           <string>直</string>
         </translations>
         <explaination>zhí </explaination>
-        <goodAnswers>16</goodAnswers>
-        <wrongAnswers>8</wrongAnswers>
+        <goodAnswers>18</goodAnswers>
+        <wrongAnswers>9</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -2330,8 +2330,8 @@ Wàisūnzi (par la fille)</explaination>
           <string>后</string>
         </translations>
         <explaination>hòu </explaination>
-        <goodAnswers>12</goodAnswers>
-        <wrongAnswers>6</wrongAnswers>
+        <goodAnswers>13</goodAnswers>
+        <wrongAnswers>8</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -2595,7 +2595,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>晚</string>
         </translations>
         <explaination>wǎn</explaination>
-        <goodAnswers>8</goodAnswers>
+        <goodAnswers>9</goodAnswers>
         <wrongAnswers>1</wrongAnswers>
       </entry>
     </entry>
@@ -2606,7 +2606,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>粉红色</string>
         </translations>
         <explaination>Fěnhóng</explaination>
-        <goodAnswers>14</goodAnswers>
+        <goodAnswers>15</goodAnswers>
         <wrongAnswers>7</wrongAnswers>
       </entry>
     </entry>
@@ -2761,7 +2761,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>面包</string>
         </translations>
         <explaination>miànbāo </explaination>
-        <goodAnswers>1</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>1</wrongAnswers>
       </entry>
     </entry>
@@ -2840,7 +2840,7 @@ Wàisūnzi (par la fille)</explaination>
         </translations>
         <explaination>Tóngshì</explaination>
         <goodAnswers>6</goodAnswers>
-        <wrongAnswers>1</wrongAnswers>
+        <wrongAnswers>2</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -2852,6 +2852,17 @@ Wàisūnzi (par la fille)</explaination>
         <explaination>míngtiān	(adv)</explaination>
         <goodAnswers>21</goodAnswers>
         <wrongAnswers>5</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>un restaurant</string>
+      <entry>
+        <translations class="set">
+          <string>一家饭馆</string>
+        </translations>
+        <explaination></explaination>
+        <goodAnswers>3</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -3076,7 +3087,7 @@ Huì (savoir faire qqch)</explaination>
           <string>英国</string>
         </translations>
         <explaination>Yīngguó</explaination>
-        <goodAnswers>15</goodAnswers>
+        <goodAnswers>16</goodAnswers>
         <wrongAnswers>2</wrongAnswers>
       </entry>
     </entry>
@@ -3175,7 +3186,7 @@ Huì (savoir faire qqch)</explaination>
           <string>安</string>
         </translations>
         <explaination>Ān</explaination>
-        <goodAnswers>10</goodAnswers>
+        <goodAnswers>11</goodAnswers>
         <wrongAnswers>3</wrongAnswers>
       </entry>
     </entry>
@@ -3276,7 +3287,7 @@ Huì (savoir faire qqch)</explaination>
         </translations>
         <explaination>Yīng</explaination>
         <goodAnswers>16</goodAnswers>
-        <wrongAnswers>2</wrongAnswers>
+        <wrongAnswers>3</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -3364,7 +3375,7 @@ Huì (savoir faire qqch)</explaination>
           <string>狗</string>
         </translations>
         <explaination>gǒu </explaination>
-        <goodAnswers>14</goodAnswers>
+        <goodAnswers>15</goodAnswers>
         <wrongAnswers>5</wrongAnswers>
       </entry>
     </entry>
@@ -3375,7 +3386,7 @@ Huì (savoir faire qqch)</explaination>
           <string>日</string>
         </translations>
         <explaination>Rì</explaination>
-        <goodAnswers>10</goodAnswers>
+        <goodAnswers>11</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -3496,7 +3507,7 @@ Huì (savoir faire qqch)</explaination>
           <string>一个人</string>
         </translations>
         <explaination></explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>4</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -3542,7 +3553,7 @@ Huì (savoir faire qqch)</explaination>
           <string>老外</string>
         </translations>
         <explaination>Lǎowài</explaination>
-        <goodAnswers>17</goodAnswers>
+        <goodAnswers>18</goodAnswers>
         <wrongAnswers>9</wrongAnswers>
       </entry>
     </entry>
@@ -3598,7 +3609,7 @@ Huì (savoir faire qqch)</explaination>
           <string>包子</string>
         </translations>
         <explaination>bāozi </explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>4</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -3719,7 +3730,7 @@ Huì (savoir faire qqch)</explaination>
           <string>饭馆</string>
         </translations>
         <explaination>fàn&apos;guǎn</explaination>
-        <goodAnswers>7</goodAnswers>
+        <goodAnswers>9</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -3753,7 +3764,7 @@ Huì (savoir faire qqch)</explaination>
           <string>可是</string>
         </translations>
         <explaination>kěshì </explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>4</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -3820,7 +3831,7 @@ Huì (savoir faire qqch)</explaination>
           <string>面</string>
         </translations>
         <explaination>miàn</explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>4</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -4056,7 +4067,7 @@ Huì (savoir faire qqch)</explaination>
           <string>vouloir</string>
         </translations>
         <explaination>yào</explaination>
-        <goodAnswers>5</goodAnswers>
+        <goodAnswers>6</goodAnswers>
         <wrongAnswers>1</wrongAnswers>
       </entry>
     </entry>
@@ -4144,7 +4155,7 @@ Huì (savoir faire qqch)</explaination>
           <string>yen</string>
         </translations>
         <explaination>rìyuán </explaination>
-        <goodAnswers>3</goodAnswers>
+        <goodAnswers>4</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -4244,7 +4255,7 @@ Huì (savoir faire qqch)</explaination>
           <string>hiver</string>
         </translations>
         <explaination>dōng</explaination>
-        <goodAnswers>7</goodAnswers>
+        <goodAnswers>8</goodAnswers>
         <wrongAnswers>1</wrongAnswers>
       </entry>
     </entry>
@@ -4255,7 +4266,7 @@ Huì (savoir faire qqch)</explaination>
           <string>librairie</string>
         </translations>
         <explaination>shūdiàn </explaination>
-        <goodAnswers>1</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>1</wrongAnswers>
       </entry>
     </entry>
@@ -4311,7 +4322,7 @@ Huì (savoir faire qqch)</explaination>
           <string>brioche vapeur</string>
         </translations>
         <explaination>bāozi </explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>4</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -4532,7 +4543,7 @@ Huì (savoir faire qqch)</explaination>
           <string>époux</string>
         </translations>
         <explaination>Àirén</explaination>
-        <goodAnswers>9</goodAnswers>
+        <goodAnswers>10</goodAnswers>
         <wrongAnswers>2</wrongAnswers>
       </entry>
     </entry>
@@ -4653,7 +4664,7 @@ Huì (savoir faire qqch)</explaination>
           <string>un livre</string>
         </translations>
         <explaination></explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -4686,7 +4697,7 @@ Huì (savoir faire qqch)</explaination>
           <string>ambassade</string>
         </translations>
         <explaination>Dàshǐ guǎn</explaination>
-        <goodAnswers>9</goodAnswers>
+        <goodAnswers>10</goodAnswers>
         <wrongAnswers>1</wrongAnswers>
       </entry>
     </entry>
@@ -4697,7 +4708,7 @@ Huì (savoir faire qqch)</explaination>
           <string>tout seul</string>
         </translations>
         <explaination></explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -4777,7 +4788,7 @@ avoir l&apos;intention de</explaination>
           <string>style</string>
         </translations>
         <explaination>英式早饭 : petit déjeuner anglais</explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -4799,7 +4810,7 @@ avoir l&apos;intention de</explaination>
           <string>voir</string>
         </translations>
         <explaination>jiàn</explaination>
-        <goodAnswers>22</goodAnswers>
+        <goodAnswers>23</goodAnswers>
         <wrongAnswers>1</wrongAnswers>
       </entry>
     </entry>
@@ -5126,7 +5137,7 @@ avoir l&apos;intention de</explaination>
           <string>apprendre</string>
         </translations>
         <explaination>xué</explaination>
-        <goodAnswers>13</goodAnswers>
+        <goodAnswers>15</goodAnswers>
         <wrongAnswers>1</wrongAnswers>
       </entry>
     </entry>
@@ -5203,7 +5214,7 @@ avoir l&apos;intention de</explaination>
           <string>voler</string>
         </translations>
         <explaination>fēi</explaination>
-        <goodAnswers>6</goodAnswers>
+        <goodAnswers>7</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -5317,7 +5328,7 @@ Huì (savoir faire qqch)</explaination>
           <string>aéroport</string>
         </translations>
         <explaination>fēijīchǎng</explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -5574,7 +5585,7 @@ Huì (savoir faire qqch)</explaination>
           <string>petit-déjeuner</string>
         </translations>
         <explaination>zǎofàn</explaination>
-        <goodAnswers>7</goodAnswers>
+        <goodAnswers>8</goodAnswers>
         <wrongAnswers>4</wrongAnswers>
       </entry>
     </entry>
@@ -5675,7 +5686,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>arrêt de bus</string>
         </translations>
         <explaination>gōnggòng qìchēzhàn</explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -5686,7 +5697,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>envelopper</string>
         </translations>
         <explaination>bāo</explaination>
-        <goodAnswers>1</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -5697,7 +5708,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>matin</string>
         </translations>
         <explaination>shàngwǔ</explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -5741,7 +5752,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>cependant</string>
         </translations>
         <explaination>kěshì </explaination>
-        <goodAnswers>1</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -5797,7 +5808,7 @@ Wàisūnzi (par la fille)</explaination>
         </translations>
         <explaination>Xǐhuan</explaination>
         <goodAnswers>15</goodAnswers>
-        <wrongAnswers>6</wrongAnswers>
+        <wrongAnswers>7</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -5962,8 +5973,8 @@ Wàisūnzi (par la fille)</explaination>
           <string>addition</string>
         </translations>
         <explaination>dān, mǎidān (payer la note)</explaination>
-        <goodAnswers>6</goodAnswers>
-        <wrongAnswers>5</wrongAnswers>
+        <goodAnswers>9</goodAnswers>
+        <wrongAnswers>6</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -6119,8 +6130,8 @@ Wàisūnzi (par la fille)</explaination>
           <string>monnaie</string>
         </translations>
         <explaination>qián </explaination>
-        <goodAnswers>14</goodAnswers>
-        <wrongAnswers>8</wrongAnswers>
+        <goodAnswers>15</goodAnswers>
+        <wrongAnswers>9</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -6240,7 +6251,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>midi</string>
         </translations>
         <explaination>wǔ, zhōngwǔ</explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -6273,7 +6284,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>sain et sauf</string>
         </translations>
         <explaination></explaination>
-        <goodAnswers>7</goodAnswers>
+        <goodAnswers>8</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -6296,7 +6307,7 @@ Wàisūnzi (par la fille)</explaination>
         </translations>
         <explaination>tù </explaination>
         <goodAnswers>6</goodAnswers>
-        <wrongAnswers>0</wrongAnswers>
+        <wrongAnswers>1</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -6329,7 +6340,7 @@ Wàisūnzi (par la fille)</explaination>
         </translations>
         <explaination>cài </explaination>
         <goodAnswers>6</goodAnswers>
-        <wrongAnswers>0</wrongAnswers>
+        <wrongAnswers>1</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -6396,8 +6407,8 @@ Wàisūnzi (par la fille)</explaination>
           <string>cher</string>
         </translations>
         <explaination>guì</explaination>
-        <goodAnswers>7</goodAnswers>
-        <wrongAnswers>4</wrongAnswers>
+        <goodAnswers>8</goodAnswers>
+        <wrongAnswers>5</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -6497,7 +6508,7 @@ Wàisūnzi (par la fille)</explaination>
         </translations>
         <explaination>dān, mǎidān (payer la note)</explaination>
         <goodAnswers>2</goodAnswers>
-        <wrongAnswers>0</wrongAnswers>
+        <wrongAnswers>1</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -6551,7 +6562,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>chaud</string>
         </translations>
         <explaination>rè</explaination>
-        <goodAnswers>6</goodAnswers>
+        <goodAnswers>7</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -6642,7 +6653,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>midi</string>
         </translations>
         <explaination>wǔ, zhōngwǔ</explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -6665,7 +6676,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>bar</string>
         </translations>
         <explaination>jiǔbā </explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -6676,7 +6687,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>là-bas</string>
         </translations>
         <explaination>nàr, nàli</explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -6732,7 +6743,7 @@ Wàisūnzi (par la fille)</explaination>
         </translations>
         <explaination>hòutiān </explaination>
         <goodAnswers>11</goodAnswers>
-        <wrongAnswers>6</wrongAnswers>
+        <wrongAnswers>7</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -6799,7 +6810,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>année</string>
         </translations>
         <explaination>nián, suì</explaination>
-        <goodAnswers>8</goodAnswers>
+        <goodAnswers>9</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -6822,7 +6833,7 @@ Wàisūnzi (par la fille)</explaination>
         </translations>
         <explaination>guǒ, kè, luǒ, wǒ</explaination>
         <goodAnswers>2</goodAnswers>
-        <wrongAnswers>0</wrongAnswers>
+        <wrongAnswers>1</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -6854,7 +6865,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>farine</string>
         </translations>
         <explaination>miàn</explaination>
-        <goodAnswers>1</goodAnswers>
+        <goodAnswers>2</goodAnswers>
         <wrongAnswers>1</wrongAnswers>
       </entry>
     </entry>
@@ -6964,7 +6975,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>riz</string>
         </translations>
         <explaination>mǐfàn</explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -6975,7 +6986,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>point</string>
         </translations>
         <explaination>三点五 : 3.5</explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -7041,7 +7052,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>déjeuner</string>
         </translations>
         <explaination>zhōngfàn, wǔfàn </explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -7098,6 +7109,17 @@ Wàisūnzi (par la fille)</explaination>
         </translations>
         <explaination>shǎo</explaination>
         <goodAnswers>7</goodAnswers>
+        <wrongAnswers>0</wrongAnswers>
+      </entry>
+    </entry>
+    <entry>
+      <string>一家饭馆</string>
+      <entry>
+        <translations class="set">
+          <string>un restaurant</string>
+        </translations>
+        <explaination></explaination>
+        <goodAnswers>2</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -7331,7 +7353,7 @@ Huì (savoir faire qqch)</explaination>
         </translations>
         <explaination>Mù</explaination>
         <goodAnswers>13</goodAnswers>
-        <wrongAnswers>6</wrongAnswers>
+        <wrongAnswers>7</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -7342,7 +7364,7 @@ Huì (savoir faire qqch)</explaination>
         </translations>
         <explaination>wèn
 qǐngwèn</explaination>
-        <goodAnswers>16</goodAnswers>
+        <goodAnswers>18</goodAnswers>
         <wrongAnswers>11</wrongAnswers>
       </entry>
     </entry>
@@ -7474,7 +7496,7 @@ qǐngwèn</explaination>
           <string>période</string>
         </translations>
         <explaination>qī </explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -7540,7 +7562,7 @@ qǐngwèn</explaination>
           <string>Allemagne</string>
         </translations>
         <explaination>Déguó</explaination>
-        <goodAnswers>10</goodAnswers>
+        <goodAnswers>11</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -7597,7 +7619,7 @@ qǐngwèn</explaination>
         </translations>
         <explaination>yǒu</explaination>
         <goodAnswers>15</goodAnswers>
-        <wrongAnswers>0</wrongAnswers>
+        <wrongAnswers>1</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -7695,7 +7717,7 @@ qǐngwèn</explaination>
           <string>dimanche</string>
         </translations>
         <explaination></explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -7706,8 +7728,8 @@ qǐngwèn</explaination>
           <string>devant</string>
         </translations>
         <explaination>qián</explaination>
-        <goodAnswers>10</goodAnswers>
-        <wrongAnswers>6</wrongAnswers>
+        <goodAnswers>12</goodAnswers>
+        <wrongAnswers>8</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -7728,7 +7750,7 @@ qǐngwèn</explaination>
           <string>quoi</string>
         </translations>
         <explaination>Shén me</explaination>
-        <goodAnswers>13</goodAnswers>
+        <goodAnswers>14</goodAnswers>
         <wrongAnswers>2</wrongAnswers>
       </entry>
     </entry>
@@ -7841,7 +7863,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>beau</string>
         </translations>
         <explaination></explaination>
-        <goodAnswers>1</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -7908,7 +7930,7 @@ Wàisūnzi (par la fille)</explaination>
         </translations>
         <explaination>Tóngxué</explaination>
         <goodAnswers>7</goodAnswers>
-        <wrongAnswers>0</wrongAnswers>
+        <wrongAnswers>1</wrongAnswers>
       </entry>
     </entry>
     <entry>
@@ -7984,7 +8006,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>pain</string>
         </translations>
         <explaination>miànbāo </explaination>
-        <goodAnswers>1</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -8006,7 +8028,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>marché</string>
         </translations>
         <explaination>shāngchǎng </explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
@@ -8073,7 +8095,7 @@ Wàisūnzi (par la fille)</explaination>
           <string>commerçant</string>
         </translations>
         <explaination>shāngrén </explaination>
-        <goodAnswers>2</goodAnswers>
+        <goodAnswers>3</goodAnswers>
         <wrongAnswers>0</wrongAnswers>
       </entry>
     </entry>
